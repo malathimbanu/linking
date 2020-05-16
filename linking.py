@@ -1,5 +1,7 @@
 print("hello world")
 print("welcome to the tutorial")
+
+print("addition")
 def add(a,b):
     c=a+b
     return c
